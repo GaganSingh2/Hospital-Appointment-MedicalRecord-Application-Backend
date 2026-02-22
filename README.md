@@ -1,4 +1,4 @@
-# Application Name- MediTrack Pro
+# Application Name:- MediTrack Pro
 A Spring Boot REST API based backend project designed to manage hospital operations efficiently.
 This system handles Doctors, Patients, Appointments, Medical Records, and Prescriptions with proper relational mapping and validation logic.
 
